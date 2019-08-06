@@ -1,6 +1,6 @@
 # hari 01
 void main() {
-  print(year); // untuk menampilkan yea
+  print(year); // untuk menampilkan year
   print(flybyObjects);// fungsi untuk print flyobjects
 
   if (year >= 2001) {
