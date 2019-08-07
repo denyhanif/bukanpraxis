@@ -1,0 +1,1 @@
+standup meeting pagi = #KOMUNIKASI
